@@ -1,0 +1,26 @@
+# Private campaign data, credentials and delivery history
+private/
+.env
+.env.*
+!.env.example
+*state*.json
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.eml
+*.log
+!examples/recipients.csv
+# Python / editor files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.idea/
+.vscode/

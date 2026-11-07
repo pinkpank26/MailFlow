@@ -1,0 +1,9 @@
+[
+  {
+    "email": "sender@example.com",
+    "password_env": "MAIL_SMTP_PASSWORD",
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 587,
+    "daily_limit": 100
+  }
+]
